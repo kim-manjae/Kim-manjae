@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 안녕하세요,  AI DOC 입니다
 
-<!--
-**kim-manjae/Kim-manjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📌 저는 Flutter · Dart · FastAPI · PostgreSQL** 을 주로 사용합니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 주요 프로젝트
+- **AI DOC**  
+  외국인 대상 의료기관 안내 앱  
+  - Flutter로 UI/UX 구현  
+  - FastAPI + PostgreSQL 백엔드  
+
+- **관광지 추천 대시보드**  
+  SVD 기반 협업 필터링 추천 시스템  
+  - Python, Streamlit  
+
+---
+
+## 🛠️ 기술 스택
+| 분야      | 사용 기술                         |
+|----------|----------------------------------|
+| Frontend | Flutter, Dart                    |
+| Backend  | FastAPI, Python                  |
+| DB       | PostgreSQL                       |
+| DevOps   | GitHub Actions, Docker           |
+
+---
+
+## 📫 연락처
+- 이메일: meongtamjeongai@example.com  
+- 블로그: https://yourblog.com  
